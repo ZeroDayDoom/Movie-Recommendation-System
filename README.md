@@ -1,6 +1,7 @@
 # 🎬 Movie Recommendation System
 
 A machine learning-based Movie Recommendation System built using both **Collaborative Filtering** and **Content-Based Filtering** techniques. This system also features a clean and interactive **Streamlit web interface**.
+
 Here is the link of my google colab notebook for more help - https://colab.research.google.com/drive/1ticTNv8aOGBBpFhM85gjh50HMnSiF0AP?usp=sharing
 
 ---
